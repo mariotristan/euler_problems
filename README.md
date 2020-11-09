@@ -6,3 +6,5 @@ Attemtps to solve https://projecteuler.net/ problems
 [Problem 2](https://github.com/mariotristan/euler_problems/tree/master/Problem_2) **Solved** :white_check_mark:
 
 [Problem 3](https://github.com/mariotristan/euler_problems/tree/master/Problem_3) :grey_question:
+
+[Problem 4](https://github.com/mariotristan/euler_problems/tree/master/Problem_4) **Solved** :white_check_mark:
